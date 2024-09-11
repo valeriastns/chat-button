@@ -22,4 +22,5 @@ function testButton(property){
 }
 
 testButton(sendMessageButton);
+
 sendMessageButton.onClick();
